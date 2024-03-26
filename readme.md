@@ -9,10 +9,9 @@
 
 ### 🔹Programming Languages & Framework:ㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;">
-    [<a href="https://icons8.com/icon/wPohyHO_qO1a/react"></a><a target="_blank" href="https://icons8.com"></a>](https://icons8.com/icon/wPohyHO_qO1a/react)
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/>
-        <a href="https://www.go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    ![image](https://github.com/MiqbalF2021/MiqbalF2021/assets/94272637/71f7de24-8b28-40a5-ac00-d6742c5957f5)
+
 </p>
 
 <p  align="center">          
