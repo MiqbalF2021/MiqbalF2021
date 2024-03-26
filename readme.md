@@ -9,7 +9,7 @@
 
 ### 🔹Programming Languages & Framework:ㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;">
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a target="_blank" href="https://icons8.com/icon/wPohyHO_qO1a/react">react js</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/>
         <a href="https://www.go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
