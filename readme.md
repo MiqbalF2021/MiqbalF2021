@@ -10,7 +10,7 @@
 ### 🔹Programming Languages & Framework:ㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <img width="16" height="16" src="https://img.icons8.com/officexs/16/react.png" alt="react"/>
+    <img width="40" height="40" src="https://img.icons8.com/officexs/40/react.png" alt="react"/>
 </p>
 
 <p  align="center">          
