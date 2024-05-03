@@ -7,7 +7,7 @@
 
 # 🔥 Skills 🔥
 
-### 🔹Technologies I've Learned::ㅤㅤㅤㅤㅤㅤㅤ
+### 🔹Technologies I've Learned:ㅤㅤㅤㅤ
 <p style="padding:10px;">
     <img width="60" height="60" src="https://img.icons8.com/ios-glyphs/60/228BE6/react.png" alt="react"/>
     <img width="40" height="40" src="https://img.icons8.com/office/40/express-js.png" alt="express-js"/>
