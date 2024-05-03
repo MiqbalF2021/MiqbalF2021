@@ -9,12 +9,10 @@
 
 ### 🔹Programming Languages & Framework:ㅤㅤㅤㅤㅤㅤㅤ
 <p style="padding:10px;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <img width="60" height="60" src="https://img.icons8.com/ios-glyphs/60/228BE6/react.png" alt="react"/>
     <img width="40" height="40" src="https://img.icons8.com/office/40/express-js.png" alt="express-js"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/>
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/>
 </p>
 
 <p  align="center">          
