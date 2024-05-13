@@ -9,7 +9,7 @@
 
 ### 🔹Technologies I've Learned:ㅤㅤㅤㅤ
 
-![React](https://img.shields.io/badge/React-JS%20-%https://icons8.com/icon/122637/react?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React%20-%react.svg?style=for-the-badge&logo=c&logoColor=white)
 
 <p  align="center">          
 <br>
