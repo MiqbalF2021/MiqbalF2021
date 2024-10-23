@@ -11,9 +11,6 @@
 
 <p style="padding:10px;">
     <img width="60" height="60" src="https://img.icons8.com/ios-glyphs/60/228BE6/react.png" alt="react"/>
-    <img width="40" height="40" src="https://img.icons8.com/office/40/express-js.png" alt="express-js"/>
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/laravel.png" alt="laravel"/>
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
 </p>
 
 <p  align="center">          
