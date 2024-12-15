@@ -1,32 +1,43 @@
+# Hi there! 👋 Welcome to My GitHub Profile!  
 
-<div style=" font-size: medium; color: #447ff7" align=center>
+I'm **Muhamad Iqbal Fauzi**, a passionate **Frontend Enthusiast** from Indonesia. 🚀  
+I specialize in crafting responsive, user-friendly, and visually appealing web interfaces.  
 
-<p  align="center">    
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
-<br>
+## 🚀 About Me  
+- 💻 I love building modern web applications with clean and maintainable code.  
+- 🌱 Always exploring the latest trends in **React.js**, **Vite.js**, and **Tailwind CSS**.  
+- 🌟 I have a keen eye for **Responsive Design**, ensuring a seamless experience across devices.  
+- 📖 Currently learning and growing as a developer every day.  
 
-# 🔥 Skills 🔥
+---
 
-### 🔹Technologies I've Learned:ㅤㅤㅤㅤ
+## 🛠️ Skills  
+- **Frameworks & Libraries**:  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
 
-<p style="padding:10px;">
-    <img width="60" height="60" src="https://img.icons8.com/ios-glyphs/60/228BE6/react.png" alt="react"/>
-</p>
+- **CSS Frameworks**:  
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-<p  align="center">          
-<br>
+- **Core Skills**:  
+  - Responsive Design  
+  - UI/UX Optimization  
+  - Code Performance Enhancement  
 
-# 📈 Statistics 📈
+---
 
-<p align="center">
-  <a href="https://github.com/vipcodestudio">
-    <img src="https://github-readme-stats.vercel.app/api?username=MiqbalF2021&show_icons=true&theme=github_dark&hide_border=true" />
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipcodestudio&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=vipcodestudio&theme=react-dark" /> -->
-</a>
-</p>
+## 📈 My GitHub Stats  
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliyandy&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyandy&layout=compact&theme=radical)  
 
-<p  align="center">
+---
 
-</div>
+## 🌟 Let's Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 🌐 [Portfolio](https://aliyandy.github.io/)  
+- 📧 Email me at: **muhamadiqbalfauzi@gmail.com**  
+
+---
+
+**"Code is not just what I do, it's what I love!"**
