@@ -28,15 +28,18 @@ I specialize in crafting responsive, user-friendly, and visually appealing web i
 
 ## 📈 My GitHub Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aliyandy&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliyandy&layout=compact&theme=radical)  
+<p align="center">
+  <a href="https://github.com/vipcodestudio">
+    <img src="https://github-readme-stats.vercel.app/api?username=MiqbalF2021&show_icons=true&theme=github_dark&hide_border=true" />
+</a>
+</p>
 
 ---
 
 ## 🌟 Let's Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🌐 [Portfolio](https://aliyandy.github.io/)  
-- 📧 Email me at: **muhamadiqbalfauzi@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhamad-iqbal-fauzi-fz/)  
+- 🌐 [Portfolio](https://m-iqbal-fauzi.vercel.app/)  
+- 📧 Email me at: **miqbalfauzi000@gmail.com**  
 
 ---
 
