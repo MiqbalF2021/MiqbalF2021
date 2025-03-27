@@ -20,6 +20,9 @@ I specialize in crafting responsive, user-friendly, and visually appealing web i
 - **CSS Frameworks**:  
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
+- **Design Tools**:  
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+
 - **Core Skills**:  
   - Responsive Design  
   - UI/UX Optimization  
