@@ -29,7 +29,7 @@ I specialize in crafting responsive, user-friendly, and visually appealing web i
 ## 📈 My GitHub Stats  
 
 <p align="center">
-  <a href="https://github.com/vipcodestudio">
+  <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=MiqbalF2021&show_icons=true&theme=github_dark&hide_border=true" />
 </a>
 </p>
